@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- NIVA stylized emblem: gentle protective lotus petal bowl + bright AI spark -->
+    <!-- Lotus base / organizing nest -->
+    <path
+        android:fillColor="#FFFDF7"
+        android:pathData="M54,34 C44,34 35,42 35,53 C35,66 54,77 54,77 C54,77 73,66 73,53 C73,42 64,34 54,34 Z" />
+    <!-- Inner warm terracotta petal accent -->
+    <path
+        android:fillColor="#D87F63"
+        android:pathData="M54,40 C47,40 41,46 41,54 C41,63 54,71 54,71 C54,71 67,63 67,54 C67,46 61,40 54,40 Z" />
+    <!-- Spark / star of clarity in center -->
+    <path
+        android:fillColor="#FFFDF7"
+        android:pathData="M54,46 L56,52 L62,54 L56,56 L54,62 L52,56 L46,54 L52,52 Z" />
+    <!-- Small outer sparkle dots -->
+    <path
+        android:fillColor="#E8C547"
+        android:pathData="M69,37 L70,39.5 L72.5,40.5 L70,41.5 L69,44 L68,41.5 L65.5,40.5 L68,39.5 Z" />
+    <path
+        android:fillColor="#E8C547"
+        android:pathData="M38,44 L38.6,45.8 L40.4,46.4 L38.6,47 L38,48.8 L37.4,47 L35.6,46.4 L37.4,45.8 Z" />
+</vector>
+
